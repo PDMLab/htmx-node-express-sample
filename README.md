@@ -1,6 +1,19 @@
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org) [![Join the chat at https://gitter.im/pdmlab/community](https://badges.gitter.im/pdmlab/community.svg)](https://gitter.im/pdmlab/community)
 
-# ts-node-prettier-vscode-starter
+# htmx-node-sample
+
+## Usage
+
+```bash
+yarn install
+yarn start
+```
+
+AFter the server is listening, just browse the website and enter your name in the text box.
+
+Then press the "Say hello" button.
+
+![](assets/screenshot.png)
 
 ## Want to help?
 
@@ -20,7 +33,7 @@ Also please add tests and make sure to run `npm run lint-ts` or `yarn lint-ts`.
 
 MIT License
 
-Copyright (c) 2020 - 2021 PDMLab
+Copyright (c) 2022 Alexander Zeitler
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
